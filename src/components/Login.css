@@ -3,8 +3,8 @@
     color:white;
     margin:2rem;
     padding: 2rem;
-    height:60vh;
-    width:25vw;
+    height:auto;
+    width: auto;
     border:1px solid black;
     display: flex;
     align-items: center;
